@@ -1,0 +1,8 @@
+! Block everything
+^$document
+
+! Unblock some things
+@@||westlaw.com^$all
+@@||thomsonreuters.com^$all
+@@||clio.com^$all
+@@||box.com^$all
