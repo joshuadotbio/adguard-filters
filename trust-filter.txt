@@ -1,0 +1,5 @@
+@@||dndbeyond.com^$cookie
+@@||dropbox.com^$cookie
+@@||proton.me^$cookie
+@@||box.com^$cookie
+@@||clio.com^$cookie
