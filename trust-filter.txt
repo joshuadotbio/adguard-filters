@@ -3,3 +3,5 @@
 @@||proton.me^$cookie
 @@||box.com^$cookie
 @@||clio.com^$cookie
+@@||westlaw.com^$cookie
+@@||thomsonreuters.com^$cookie
