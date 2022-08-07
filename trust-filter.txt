@@ -4,6 +4,8 @@
 @@||proton.me^$cookie
 @@||box.com^$cookie
 @@||clio.com^$cookie
+@@||westlaw.com^$cookie
+@@||thomsonreuters.com^$cookie
 @@||forge-vtt.com^$cookie
 @@||foundryvtt.com^$cookie
 @@||github.com^$cookie

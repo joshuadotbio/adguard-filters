@@ -6,3 +6,6 @@
 @@||thomsonreuters.com^$all
 @@||clio.com^$all
 @@||box.com^$all
+@@http*://www.google.com/search?$document,~extension
+@@http*://www.google.com/url?$document,~extension
+
