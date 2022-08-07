@@ -1,5 +1,9 @@
+@@||apple.com^$cookie
 @@||dndbeyond.com^$cookie
 @@||dropbox.com^$cookie
 @@||proton.me^$cookie
 @@||box.com^$cookie
 @@||clio.com^$cookie
+@@||forge-vtt.com^$cookie
+@@||foundryvtt.com^$cookie
+@@||github.com^$cookie
