@@ -8,5 +8,5 @@
 @@||box.com^$all,~extension
 @@http*://www.google.com/search?$document,~extension
 @@http*://www.google.com/url?$document,~extension
-@@||thesaurus.com,^$document,~extension
-@@||dictionary.com,^$document,~extension
+@@||thesaurus.com^$document,~extension
+@@||dictionary.com^$document,~extension
