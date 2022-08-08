@@ -4,8 +4,9 @@
 ! Unblock some things
 @@||westlaw.com^$all,~extension
 @@||thomsonreuters.com^$all,~extension
-@@||clio.com^$all
-@@||box.com^$all
+@@||clio.com^$all,~extension
+@@||box.com^$all,~extension
 @@http*://www.google.com/search?$document,~extension
 @@http*://www.google.com/url?$document,~extension
-
+@@||thesaurus.com,^$document,~extension
+@@||dictionary.com,^$document,~extension
