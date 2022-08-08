@@ -2,8 +2,8 @@
 ^$document
 
 ! Unblock some things
-@@||westlaw.com^$all
-@@||thomsonreuters.com^$all
+@@||westlaw.com^$all,~extension
+@@||thomsonreuters.com^$all,~extension
 @@||clio.com^$all
 @@||box.com^$all
 @@http*://www.google.com/search?$document,~extension
