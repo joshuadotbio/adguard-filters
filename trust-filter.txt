@@ -1,7 +1,7 @@
 @@||apple.com^$cookie
 @@||dndbeyond.com^$cookie
 @@||dropbox.com^$cookie
-@@||proton.me^$cookie
+@@||proton.me^$all,cookie
 @@||box.com^$cookie
 @@||clio.com^$cookie
 @@||westlaw.com^$cookie
