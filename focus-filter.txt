@@ -10,3 +10,4 @@
 @@http*://www.google.com/url?$document,~extension
 @@||thesaurus.com^$document,~extension
 @@||dictionary.com^$document,~extension
+@@||ca.gov^$document,~extension
