@@ -11,3 +11,4 @@
 @@||thesaurus.com^$document,~extension
 @@||dictionary.com^$document,~extension
 @@||ca.gov^$document,~extension
+@@||leagle.com^$document,~extension
